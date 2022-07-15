@@ -1,10 +1,10 @@
-###  Assistant Professor of Computer Science at Middlebury College
-
+###  
+Software Engineer, Fortanix
 - https://jjfoley.me
-- johnf@middlebury.edu
+- git@jjfoley.me
 - he/his/him
-- Office: 75 Shannon St. - #219
 
 Previously:
+- Assistant Professor of Computer Science at Middlebury College (2020-2022)
 - Visiting Assistant Professor at Smith College (2018-2020)
 - Research Assistant, PhD Student at UMass Amherst (2013-2019) 
