@@ -1,5 +1,5 @@
 ###  
-Software Engineer, Fortanix
+Sr. Software Engineer, Fortanix
 - https://jjfoley.me
 - git@jjfoley.me
 - he/his/him
